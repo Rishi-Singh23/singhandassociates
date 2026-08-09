@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-paper text-charcoal font-body antialiased;
+}
+
+.eyebrow {
+  @apply text-[13px] tracking-[0.18em] uppercase text-gold-dark font-semibold;
+}
+
+.container-page {
+  @apply max-w-6xl mx-auto px-6;
+}
+
+.btn-primary {
+  @apply inline-flex items-center gap-2 bg-ink text-paper px-6 py-3 text-sm font-semibold tracking-wide hover:bg-ink-light transition-colors;
+}
+
+.btn-outline {
+  @apply inline-flex items-center gap-2 border border-ink text-ink px-6 py-3 text-sm font-semibold tracking-wide hover:bg-ink hover:text-paper transition-colors;
+}
+
+/* visible keyboard focus */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid #B8863C;
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
