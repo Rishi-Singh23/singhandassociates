@@ -115,7 +115,7 @@ export default function About() {
             <div className="flex justify-center lg:justify-end">
 
               <img
-                src="/ca.png"
+                src={`${import.meta.env.BASE_URL}ca.png`}
                 alt="CA"
                 className="w-[420px] sm:w-[480px] lg:w-[520px] h-auto object-contain"
               />

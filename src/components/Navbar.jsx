@@ -21,7 +21,7 @@ export default function Navbar() {
       <div className="container-page flex items-center justify-between py-3 min-h-24">
         <div className="flex items-center gap-3">
           <NavLink to="/" onClick={() => setOpen(false)} className="shrink-0">
-            <img src="/logo.png" alt="Singh & Associates logo" className="h-16 w-auto" />
+            <img src={`${import.meta.env.BASE_URL}logo.png`} alt="Singh & Associates logo" className="h-16 w-auto" />
           </NavLink>
           <div className="flex flex-col items-start leading-tight">
             <NavLink to="/" onClick={() => setOpen(false)}>

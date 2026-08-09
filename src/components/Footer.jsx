@@ -52,7 +52,7 @@ export default function Footer() {
       <div className="container-page py-14 grid gap-10 md:grid-cols-3">
         <div>
           <div className="flex items-center gap-3">
-            <img src="/logo.png" alt="Singh and Associates logo" className="h-12 w-auto" />
+            <img src={`${import.meta.env.BASE_URL}logo.png`} alt="Singh and Associates logo" className="h-12 w-auto" />
             <div className="flex flex-col leading-tight">
               <span className="font-display text-xl text-paper">SINGH AND ASSOCIATES</span>
               <span className="text-xs tracking-widest uppercase text-gold-light mt-1">

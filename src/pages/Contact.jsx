@@ -95,7 +95,7 @@ export default function Contact() {
             <div className="hidden lg:flex justify-center">
 
               <img
-                src="/contact-illustration.png"
+                src={`${import.meta.env.BASE_URL}contact-illustration.png`}
                 alt="Contact"
                 className="w-[1000px]"
               />
