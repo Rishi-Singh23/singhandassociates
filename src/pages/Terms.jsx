@@ -64,7 +64,7 @@ export default function Terms() {
           <h2 className="font-display text-xl text-ink mb-2">Contact Us</h2>
           <p>
             Questions about these terms can be sent to
-            singh.associates1102@gmail.com or +91 62074 31660.
+             contact@singhandassociates.co.in or +91 62074 31660.
           </p>
         </div>
       </div>

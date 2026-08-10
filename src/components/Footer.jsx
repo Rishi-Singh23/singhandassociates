@@ -139,7 +139,7 @@ export default function Footer() {
             </li>
             <li className="flex items-center gap-3">
               <Mail size={18} className="text-gold-light shrink-0" />
-              <span>singh.associates1102@gmail.com</span>
+              <span> contact@singhandassociates.co.in</span>
             </li>
             <li className="flex items-center gap-3">
               <Clock size={18} className="text-gold-light shrink-0" />

@@ -163,7 +163,7 @@ export default function Contact() {
                     </h3>
 
                     <p>
-                      singh.associates1102@gmail.com
+                       contact@singhandassociates.co.in
                     </p>
 
                   </div>

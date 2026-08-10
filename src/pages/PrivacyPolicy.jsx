@@ -51,7 +51,7 @@ export default function PrivacyPolicy() {
           <h2 className="font-display text-xl text-ink mb-2">Contact Us</h2>
           <p>
             For any questions about this privacy policy or your data, contact
-            us at singh.associates1102@gmail.com or +91 62074 31660.
+            us at  contact@singhandassociates.co.in or +91 62074 31660.
           </p>
         </div>
       </div>
