@@ -1,6 +1,6 @@
 # Dhruv Singh & Co. — CA Portfolio Site
 
-A React + Vite + Tailwind portfolio site for a coastal accountant.
+A React + Vite + Tailwind portfolio site for a cost accountant.
 
 ## Run locally
 1. npm install
