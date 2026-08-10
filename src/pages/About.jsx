@@ -55,7 +55,7 @@ export default function About() {
                   <Award className="mx-auto text-gold w-9 h-9"/>
 
                   <h3 className="mt-4 text-3xl font-bold">
-                    250+
+                    1000+
                   </h3>
 
                   <p className="text-paper/70">
@@ -69,7 +69,7 @@ export default function About() {
                   <FileText className="mx-auto text-gold w-9 h-9"/>
 
                   <h3 className="mt-4 text-3xl font-bold">
-                    500+
+                    5000+
                   </h3>
 
                   <p className="text-paper/70">
@@ -97,7 +97,7 @@ export default function About() {
                   <TrendingUp className="mx-auto text-gold w-9 h-9"/>
 
                   <h3 className="mt-4 text-3xl font-bold">
-                    10+
+                    25+
                   </h3>
 
                   <p className="text-paper/70">
